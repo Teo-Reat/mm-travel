@@ -57,7 +57,7 @@ return [
 
     'from' => [
         'address' => env('MAIL_FROM_ADDRESS', 'reference@mamatravel.world'),
-        'name' => env('MAIL_FROM_NAME', 'Марьяна Зінченко'),
+        'name' => env('MAIL_FROM_NAME', 'mamatravel.world'),
     ],
 
     /*
