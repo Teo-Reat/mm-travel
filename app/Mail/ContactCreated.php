@@ -30,7 +30,7 @@ class ContactCreated extends Mailable
      */
     public function build()
     {
-        return $this->to('teo.reat@gmail.com')
+        return $this->to('reference@mamatravel.world')
             ->subject('Новий користувач зробив запит')
             ->markdown('emails.contact');
     }

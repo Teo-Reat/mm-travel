@@ -1,7 +1,7 @@
 @component('mail::message')
 # Новий контакт зареєструвався
 
-## Дані контакта
+## Дані контакта:
 
 @component('mail::table')
 |             |                       |
