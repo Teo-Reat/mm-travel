@@ -7,6 +7,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="keywords" content="Vacationing Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design"/>
+    <meta name="yandex-verification" content="6704f0c62acf625d" />
     <script type="application/x-javascript"> addEventListener("load", function () {
             setTimeout(hideURLbar, 0);
         }, false);
@@ -42,8 +43,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         </div>
         <div class="w3l-banner-info">
             <div class="date">
-                <div class="date-start">01.07</div>
-                <div class="date-end">10.07</div>
+                <div class="date-start">01.07 - 10.07<br>2019</div>
+                <div class="date-end">08.08 - 17.08<br>2019</div>
             </div>
             <h2>КАРПАТИ <br>Для мами і дитини<br></h2>
             <p>Мандруй з малюком у супроводі досвідченої команди - <br>безпечно, активно і весело!</p>
@@ -526,34 +527,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="basic price-column">
                 <strong>Базовий</strong>
                 <p>Мама і малюк</p>
-                <span>000 UAH</span>
+                <span>12500 UAH</span>
                 <ul class="price-base">
                     <li class="price-base-item">
-                        Трансфер від вокзалу/на вокзал
+                        Трансфер від вокзалу/на вокзал + весь трансфер туру
                     </li>
                     <li class="price-base-item">
-                        Проживання
-                    </li>
-                    <li class="price-base-item">
-                        Триразове Харчування
+                        Проживання в чотиримісному номері
                     </li>
                     <li class="price-base-item">
                         Програма туру
                     </li>
                     <li class="price-base-item">
-                        Екскурсії
+                        Вода, свіжі фрукти, чай, кава та солодощі кожен день
                     </li>
                     <li class="price-base-item">
-                        Інструктор йоги
+                        Снеки під час виходу на маршрути
                     </li>
                     <li class="price-base-item">
-                        Послуги гіда
-                    </li>
-                    <li class="price-base-item">
-                        Майстрер класи, ігри для дітей та дорослих
+                        Екскурсії до водоспаду Шипіт, озера Синевир
                     </li>
                     <li class="price-base-item">
                         Фотографії
+                    </li>
+                    <li class="price-base-item">
+                        Катання на джипі
                     </li>
                 </ul>
                 <button class="price-button" type="button" data-toggle="modal" data-target="#myModal">Забронювати тур
@@ -573,37 +571,39 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             Оренда спорядження (каляски, рюкзаки, слінги та інше)
                         </li>
                         <li class="price-no-enter-item">
-                            Покупка сувенірів
+                            Послуги няні
+                        </li>
+                        <li class="price-no-enter-item">
+                            Харчування
                         </li>
                         <li class="price-no-enter-item">
                             Харчування у кафе/ресторанах
                         </li>
+                        <li class="price-no-enter-item">
+                            Катання на квадроциклах
+                        </li>
                     </ul>
+                    <p>Ваши додаткові витрати: витрати на харчування, приблизна сума сніданку 70-80 грн на одну особу,
+                        обід 100-120 грн на одну особу, вечеря 70-80 грн на одну особу + ваши особисті витрати, які не
+                        передбачені програмою туру, витрати на няню.</p>
                 </div>
             </div>
             <div class="ext price-column">
                 <strong>Розширений</strong>
                 <p>Мама і малюк.</p>
-                <span>000 UAH</span>
+                <span>14800 UAH</span>
                 <ul class="price-ext">
                     <li class="price-ext-item">
-                        Базовий мама і малюк +
+                        Все, що входить в базовий +
                     </li>
                     <li class="price-ext-item">
-                        Няня з 9-00 до 18-00
-                    </li>
-                    <li class="price-ext-item">
-                        Рафтинг
-                    </li>
-                    <li class="price-ext-item">
-                        Прогулянки верхи
+                        Проживання в двомістному номері
                     </li>
                 </ul>
-                <strong>+ Тато/Подруга</strong><br>
-                <span>000 UAH</span>
                 <button class="price-button" type="button" data-toggle="modal" data-target="#myModal">Забронювати тур
                 </button>
             </div>
+            <div class="price-alert">Передоплата становить 50% від вартості обраної програми і не повертається.</div>
         </div>
     </div>
 </div>
@@ -667,26 +667,28 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <!-- footer -->
 <div class="agileinfo_footer_bottom">
-    <div class="container">
-        <div class="col-md-4 agileinfo_footer_bottom_grid">
-            <h3>Зв'язок з нами</h3>
+    <div class="container back-contact">
+        <h3>Зв'язок з нами</h3>
+        <div class="agileinfo_footer_bottom_grid">
             <ul>
                 <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a
                         href="mailto:info@example.com">mama.maluyktravel@gmail.com</a></li>
                 <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>+380955963784, +380961220056
                 </li>
             </ul>
-
+            <div class="agileits-social">
+                <ul>
+                    <li><a href="https://www.facebook.com/mamatravelmalyuk/" target="_blank"><i
+                                class="fa fa-facebook"></i></a></li>
+                </ul>
+            </div>
         </div>
     </div>
 </div>
 <div class="footer-w3layouts">
     <div class="container">
         <div class="agileits-social">
-            <ul>
-                <li><a href="https://www.facebook.com/mamatravelmalyuk/" target="_blank"><i class="fa fa-facebook"></i></a>
-                </li>
-            </ul>
+            <div class="cppyrights">© Copyright 2019. All Right Reserved. By teo.reat</div>
         </div>
         <div class="clearfix"></div>
     </div>

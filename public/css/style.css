@@ -946,7 +946,9 @@ ul.tag2:last-child {
 
 .agileinfo_footer_bottom_grid {
     padding-right: 0;
-    float: right;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .agileinfo_footer_bottom1 {
@@ -1361,6 +1363,15 @@ h3.agileits-icons-title {
     flex-wrap: wrap;
 }
 
+.price-alert {
+    width: 80%;
+    font-size: 22px;
+    background: #0197a5;
+    color: white;
+    text-align: center;
+    padding: 12px 20px;
+}
+
 .price-column {
     width: 300px;
     min-height: 535px;
@@ -1370,6 +1381,10 @@ h3.agileits-icons-title {
     margin: 65px 0 10px 0;
     color: white;
     background: #0197a5;
+}
+
+.price-column p {
+    text-align: justify;
 }
 
 .price-column:hover {
@@ -1662,6 +1677,10 @@ h3.agileits-icons-title {
 
     h3.icon-subheading {
         font-size: 22px;
+    }
+
+    .agileinfo_footer_bottom_grid {
+        justify-content: center;
     }
 }
 
@@ -3645,4 +3664,19 @@ h2.typoh2 {
 
 .slide-nav-btn:hover {
     cursor: pointer;
+}
+
+.back-contact {
+    text-align: center;
+    max-width: 600px;
+}
+
+.back-contact h3 {
+    color: #999;
+    margin: 0 0 30px;
+}
+
+.cppyrights {
+    margin: 2px 0;
+    color: #999;
 }
