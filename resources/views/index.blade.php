@@ -51,7 +51,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <p>10 днів/9 ночей</p>
             <p>Відпочинок для мами - рай для малюка!</p>
             <div class="more">
-                <a href="files/tour_program.docx" class="hvr-shutter-in-vertical" download="">Отримати програму<span
+                <a href="files/tour.pdf" class="hvr-shutter-in-vertical" download="">Отримати програму<span
                         class="glyphicon glyphicon-arrow-right"></span></a>
             </div>
         </div>
@@ -259,7 +259,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <ul class="team-list">
                 <li>
                     <div class="agile_testimonials_grid">
-                        <div class="agile_testimonials_grid1">
+                        <div class="agile_testimonials_grid1 our-team-flex">
                             <div class="w3_agile_testimonials_grid">
                                 <div class="w3_agile_testimonials_grid_left">
                                     <img src="images/our-team1.jpg" alt=" " class="img-responsive team"/>
@@ -276,7 +276,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                     Пробій, Гук і багото інших цікавих місць. Вивчає українські Карпати і складає
                                     авторські маршрути. За фахом лікар-педіатр, лікар-санолог. Працює в МК
                                     «Добробут».</p>
-                                <h4>Марьяна Зінченко</h4>
+                                <h4>Мар'яна Зінченко</h4>
 
                             </div>
                             <div class="clearfix"></div>
@@ -285,7 +285,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 </li>
                 <li>
                     <div class="agile_testimonials_grid">
-                        <div class="agile_testimonials_grid1">
+                        <div class="agile_testimonials_grid1 our-team-flex revert">
                             <div class="w3_agile_testimonials_grid_right">
                                 <p><strong>Організатор туру і наш фотограф:</strong></p>
                                 <p>Карпатські стежки, хребти і полонини, гори і водоспади - це її стихія. Вона і її
@@ -308,7 +308,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 </li>
                 <li>
                     <div class="agile_testimonials_grid">
-                        <div class="agile_testimonials_grid1">
+                        <div class="agile_testimonials_grid1 our-team-flex">
                             <div class="w3_agile_testimonials_grid">
                                 <div class="w3_agile_testimonials_grid_left">
                                     <img src="images/our-team4.jpg" alt=" " class="img-responsive team"/>
@@ -330,7 +330,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 </li>
                 <li>
                     <div class="agile_testimonials_grid">
-                        <div class="agile_testimonials_grid1">
+                        <div class="agile_testimonials_grid1 our-team-flex revert">
                             <div class="w3_agile_testimonials_grid_right">
                                 <p><strong>Екскурсовод туру:</strong></p>
                                 <p> 2,5 роки проводить екскурсії в проекті творче об’єднання «Ніч в Університеті»,
@@ -672,7 +672,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="agileinfo_footer_bottom_grid">
             <ul>
                 <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a
-                        href="mailto:info@example.com">mama.maluyktravel@gmail.com</a></li>
+                        href="mailto:reference@mamatravel.world">reference@mamatravel.world</a></li>
+                <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a
+                        href="mailto:mama.maluyktravel@gmail.com">mama.maluyktravel@gmail.com</a></li>
                 <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>+380955963784, +380961220056
                 </li>
             </ul>
