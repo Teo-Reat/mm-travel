@@ -1363,17 +1363,8 @@ h3.agileits-icons-title {
     flex-wrap: wrap;
 }
 
-.price-alert {
-    width: 80%;
-    font-size: 22px;
-    background: #0197a5;
-    color: white;
-    text-align: center;
-    padding: 12px 20px;
-}
-
 .price-column {
-    width: 300px;
+    width: 400px;
     min-height: 535px;
     position: relative;
     padding: 20px;

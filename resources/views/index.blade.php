@@ -7,7 +7,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="keywords" content="Vacationing Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design"/>
-    <meta name="yandex-verification" content="6704f0c62acf625d" />
+    <meta name="yandex-verification" content="6704f0c62acf625d"/>
     <script type="application/x-javascript"> addEventListener("load", function () {
             setTimeout(hideURLbar, 0);
         }, false);
@@ -527,7 +527,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="basic price-column">
                 <strong>Базовий</strong>
                 <p>Мама і малюк</p>
-                <span>12500 UAH</span>
+                <span>15200 UAH</span>
                 <ul class="price-base">
                     <li class="price-base-item">
                         Трансфер від вокзалу/на вокзал + весь трансфер туру
@@ -588,22 +588,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         передбачені програмою туру, витрати на няню.</p>
                 </div>
             </div>
-            <div class="ext price-column">
-                <strong>Розширений</strong>
-                <p>Мама і малюк.</p>
-                <span>14800 UAH</span>
-                <ul class="price-ext">
-                    <li class="price-ext-item">
-                        Все, що входить в базовий +
-                    </li>
-                    <li class="price-ext-item">
-                        Проживання в двомістному номері
-                    </li>
-                </ul>
-                <button class="price-button" type="button" data-toggle="modal" data-target="#myModal">Забронювати тур
-                </button>
-            </div>
-            <div class="price-alert">Передоплата становить 50% від вартості обраної програми і не повертається.</div>
         </div>
     </div>
 </div>
