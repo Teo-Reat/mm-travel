@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ua">
+<html lang="uk">
 <head>
     <title>Мама & Mалюк travel</title>
     <!-- for-mobile-apps -->
@@ -521,7 +521,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- price -->
 <div class="services">
     <div class="container">
-        <h3 class="w3l_head w3l_head1">Вартість туру</h3>
+        <h3 class="w3l_head w3l_head1">Програма мама + малюк</h3>
         <p class="w3ls_head_para w3ls_head_para1">Оберіть програму туру яка підходить саме для вас</p>
         <div class="wrapper-price">
             <div class="basic price-column">
