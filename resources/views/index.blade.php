@@ -519,78 +519,78 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- //gallery -->
 
 <!-- price -->
-<div class="services">
-    <div class="container">
-        <h3 class="w3l_head w3l_head1">Програма мама + малюк</h3>
-        <p class="w3ls_head_para w3ls_head_para1">Оберіть програму туру яка підходить саме для вас</p>
-        <div class="wrapper-price">
-            <div class="basic price-column">
-                <strong>Базовий</strong>
-                <p>Мама і малюк</p>
-                <span>15200 UAH</span>
-                <ul class="price-base">
-                    <li class="price-base-item">
-                        Трансфер від вокзалу/на вокзал + весь трансфер туру
-                    </li>
-                    <li class="price-base-item">
-                        Проживання в чотиримісному номері
-                    </li>
-                    <li class="price-base-item">
-                        Програма туру
-                    </li>
-                    <li class="price-base-item">
-                        Вода, свіжі фрукти, чай, кава та солодощі кожен день
-                    </li>
-                    <li class="price-base-item">
-                        Снеки під час виходу на маршрути
-                    </li>
-                    <li class="price-base-item">
-                        Екскурсії до водоспаду Шипіт, озера Синевир
-                    </li>
-                    <li class="price-base-item">
-                        Фотографії
-                    </li>
-                    <li class="price-base-item">
-                        Катання на джипі
-                    </li>
-                </ul>
-                <button class="price-button" type="button" data-toggle="modal" data-target="#myModal">Забронювати тур
-                </button>
-            </div>
-            <div class="no-enter price-column">
-                <div class="price-column_slide">
-                    <strong>У вартість туру не входить:</strong>
-                    <ul class="price-no-enter">
-                        <li class="price-no-enter-item">
-                            Білети на поїзд/літак
-                        </li>
-                        <li class="price-no-enter-item">
-                            Страховка
-                        </li>
-                        <li class="price-no-enter-item">
-                            Оренда спорядження (каляски, рюкзаки, слінги та інше)
-                        </li>
-                        <li class="price-no-enter-item">
-                            Послуги няні
-                        </li>
-                        <li class="price-no-enter-item">
-                            Харчування
-                        </li>
-                        <li class="price-no-enter-item">
-                            Харчування у кафе/ресторанах
-                        </li>
-                        <li class="price-no-enter-item">
-                            Катання на квадроциклах
-                        </li>
-                    </ul>
-                    <p>Ваши додаткові витрати: витрати на харчування, приблизна сума сніданку 70-80 грн на одну особу,
-                        обід 100-120 грн на одну особу, вечеря 70-80 грн на одну особу + ваши особисті витрати, які не
-                        передбачені програмою туру, витрати на няню.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+{{--<div class="services">--}}
+{{--    <div class="container">--}}
+{{--        <h3 class="w3l_head w3l_head1">Вартість туру</h3>--}}
+{{--        <p class="w3ls_head_para w3ls_head_para1">Оберіть програму туру яка підходить саме для вас</p>--}}
+{{--        <div class="wrapper-price">--}}
+{{--            <div class="basic price-column">--}}
+{{--                <strong>Базовий</strong>--}}
+{{--                <p>Мама і малюк</p>--}}
+{{--                <span>15200 UAH</span>--}}
+{{--                <ul class="price-base">--}}
+{{--                    <li class="price-base-item">--}}
+{{--                        Трансфер від вокзалу/на вокзал + весь трансфер туру--}}
+{{--                    </li>--}}
+{{--                    <li class="price-base-item">--}}
+{{--                        Проживання в чотиримісному номері--}}
+{{--                    </li>--}}
+{{--                    <li class="price-base-item">--}}
+{{--                        Програма туру--}}
+{{--                    </li>--}}
+{{--                    <li class="price-base-item">--}}
+{{--                        Вода, свіжі фрукти, чай, кава та солодощі кожен день--}}
+{{--                    </li>--}}
+{{--                    <li class="price-base-item">--}}
+{{--                        Снеки під час виходу на маршрути--}}
+{{--                    </li>--}}
+{{--                    <li class="price-base-item">--}}
+{{--                        Екскурсії до водоспаду Шипіт, озера Синевир--}}
+{{--                    </li>--}}
+{{--                    <li class="price-base-item">--}}
+{{--                        Фотографії--}}
+{{--                    </li>--}}
+{{--                    <li class="price-base-item">--}}
+{{--                        Катання на джипі--}}
+{{--                    </li>--}}
+{{--                </ul>--}}
+{{--                <button class="price-button" type="button" data-toggle="modal" data-target="#myModal">Забронювати тур--}}
+{{--                </button>--}}
+{{--            </div>--}}
+{{--            <div class="no-enter price-column">--}}
+{{--                <div class="price-column_slide">--}}
+{{--                    <strong>У вартість туру не входить:</strong>--}}
+{{--                    <ul class="price-no-enter">--}}
+{{--                        <li class="price-no-enter-item">--}}
+{{--                            Білети на поїзд/літак--}}
+{{--                        </li>--}}
+{{--                        <li class="price-no-enter-item">--}}
+{{--                            Страховка--}}
+{{--                        </li>--}}
+{{--                        <li class="price-no-enter-item">--}}
+{{--                            Оренда спорядження (каляски, рюкзаки, слінги та інше)--}}
+{{--                        </li>--}}
+{{--                        <li class="price-no-enter-item">--}}
+{{--                            Послуги няні--}}
+{{--                        </li>--}}
+{{--                        <li class="price-no-enter-item">--}}
+{{--                            Харчування--}}
+{{--                        </li>--}}
+{{--                        <li class="price-no-enter-item">--}}
+{{--                            Харчування у кафе/ресторанах--}}
+{{--                        </li>--}}
+{{--                        <li class="price-no-enter-item">--}}
+{{--                            Катання на квадроциклах--}}
+{{--                        </li>--}}
+{{--                    </ul>--}}
+{{--                    <p>Ваши додаткові витрати: витрати на харчування, приблизна сума сніданку 70-80 грн на одну особу,--}}
+{{--                        обід 100-120 грн на одну особу, вечеря 70-80 грн на одну особу + ваши особисті витрати, які не--}}
+{{--                        передбачені програмою туру, витрати на няню.</p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</div>--}}
 <!-- //price -->
 
 <!-- contacts -->
